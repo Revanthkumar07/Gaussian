@@ -1,5 +1,3 @@
-# Gaussian Elimination
-
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
 
@@ -47,7 +45,8 @@ for i in range(n):
     print('X%d = %0.2f'%(i,x[i]),end = ' ')
 ```
 ## Output:
-![Screenshot 2023-12-24 224148](https://github.com/gauthamkrishna7/Gaussian/assets/141175025/65410204-497e-430e-a0ed-9313c5e551d8)
+![Screenshot 2025-05-20 141112](https://github.com/user-attachments/assets/c1329e1d-d041-4fa7-891d-e47ad0cc15a4)
+
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
 
